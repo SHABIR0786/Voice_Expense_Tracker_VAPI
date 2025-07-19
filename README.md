@@ -140,7 +140,7 @@ Repeat similarly for `edit_expense`, `delete_expense`, etc.
 
 **Assistant:**
 
-> "Got it! Logging ₹300 for groceries on May 27. Anything else you'd like to add?"
+> "Got it! Logging RS.300 for groceries on May 27. Anything else you'd like to add?"
 
 ---
 
@@ -150,7 +150,7 @@ Repeat similarly for `edit_expense`, `delete_expense`, etc.
 
 ```json
 {
-  "name": "Aditya",
+  "name": "Shabir",
   "category": "Food",
   "amount": 500,
   "date": "2025-05-28"
@@ -161,7 +161,7 @@ Repeat similarly for `edit_expense`, `delete_expense`, etc.
 
 ## ✨ Credits
 
-Built by [Aditya](https://github.com/Paulie-Aditya) for the Vapi Build Challenge 2025
+Built by [Shabir](https://github.com/SHABIR0786) for the Vapi Build Challenge 2025
 Inspired by the idea of **natural, zero-friction expense tracking** using voice and LLMs
 
 ---
